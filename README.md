@@ -1,32 +1,6 @@
 # Descompactador de Arquivos
 
 ## Autor
-Dhayse Tito
-
-## Data
-01/03/2025
-
-## Descrição
-Este projeto é um descompactador de arquivos que suporta os seguintes formatos:
-- .zip
-- .tar.gz
-- .tar.bz2
-- .tar.xz
-
-O projeto inclui uma interface gráfica simples para selecionar o arquivo a ser descompactado e o diretório de destino.
-
-## Estrutura do Projeto
-- `main.py`: Script principal que inicializa a interface gráfica.
-- `interface.py`: Script que define a interface gráfica usando `tkinter`.
-- `descompactar.py`: Script que contém a função para descompactar arquivos.
-
-## Como Executar
-Na pasta ```dist``` rode o arquivo ```Descompactar.exe``` e use.
-
-
-# Descompactador de Arquivos
-
-## Autor
 Dhayse
 
 ## Data
